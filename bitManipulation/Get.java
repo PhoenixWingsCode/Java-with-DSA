@@ -1,4 +1,4 @@
-package Bits;
+package bitManipulation;
 
 public class Get {
     public static void main(String[] args) {
