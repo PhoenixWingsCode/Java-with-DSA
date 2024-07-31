@@ -25,5 +25,6 @@ public class Update {
             int newNumber = newBitMask & n;
             System.out.println(newNumber);
         }
+        scanner.close();
     }
 }
